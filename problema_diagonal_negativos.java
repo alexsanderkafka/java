@@ -1,4 +1,3 @@
-package problema_diagonal_negativos;
 
 import java.util.Scanner;
 
