@@ -1,4 +1,3 @@
-package problema_menor_de_tres;
 
 import java.util.Scanner;
 
