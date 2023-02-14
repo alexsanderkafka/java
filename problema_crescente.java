@@ -1,4 +1,3 @@
-package problema_crescente;
 
 import java.util.Scanner;
 
