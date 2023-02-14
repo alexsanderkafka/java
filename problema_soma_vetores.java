@@ -1,4 +1,3 @@
-package problema_soma_vetores;
 
 import java.util.Scanner;
 import java.util.Locale;
