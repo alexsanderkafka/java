@@ -1,8 +1,7 @@
-package problema_soma_impares;
 
 import java.util.Scanner;
 
-public class Main {
+public class problema_soma_impare {
 	public static void main(String[] args) {
 		Scanner ssc = new Scanner(System.in);
 		
